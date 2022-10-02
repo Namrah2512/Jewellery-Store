@@ -1,8 +1,8 @@
 # Jewellery-Store
 This project was built solely to demonstrate concepts of DBS using SQL. This is a Windows Form Application, we built it using C#.
 # Project Description:
-Thruogh this application, user can insert, update, and delete record of his or her jewellery shop's employees, products, costumers and billing information.
+Through this application, users can insert, update, and delete records of their jewellery shop's employees, products, customers and billing information.
 # My contribution:
-I designedand implementedthe UI using C#.
+I designed and implemented UI using C#.
 Note:
-A word document has been added for additional information of our project.
+A word document has been added for additional information on our project.
